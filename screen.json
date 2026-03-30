@@ -3,5 +3,6 @@
   "model": "DALL·E 3 (ChatGPT Plus)",
   "dataset_name": "Common Sense Census: Media Use by Tweens and Teens",
   "dataset_url": "https://www.commonsensemedia.org/research/the-common-sense-census-media-use-by-tweens-and-teens",
-  "insight": "As children grow, screen time evolves from a lightweight, temporary distraction into a heavy, inescapable tether that drains the overwhelming majority of their waking hours."
+  "insight": "As children grow, screen time evolves from a lightweight, temporary distraction into a heavy, inescapable tether that drains the overwhelming majority of their waking hours.",
+  "publish_email": true
 }
