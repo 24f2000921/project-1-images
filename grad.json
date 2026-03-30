@@ -4,5 +4,6 @@
   "concept": "Gradient Descent (optimization via iterative steps following the steepest local slope)",
   "tradition_name": "19th-century scientific naturalist illustration (Victorian natural history engraving)",
   "tradition_period": "mid–late 19th century (c. 1830s–1890s)",
-  "tradition_approach": "Used fine cross-hatching, monochrome ink wash, parchment texture, and observational landscape composition to mirror Victorian natural history plates; prioritized precise linework and physical realism to encode iterative optimization as a natural process."
+  "tradition_approach": "Used fine cross-hatching, monochrome ink wash, parchment texture, and observational landscape composition to mirror Victorian natural history plates; prioritized precise linework and physical realism to encode iterative optimization as a natural process.",
+  "publish_email": true
 }
