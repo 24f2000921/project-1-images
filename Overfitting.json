@@ -2,5 +2,6 @@
   "prompt": "A photorealistic, highly detailed image of a paved concrete walking path in an ordinary, mundane public park. Instead of following a logical, gentle curve, the concrete path is absurdly over-engineered: it wildly zig-zags, loops, and creates bizarre, jagged detours to perfectly wrap around every single fallen twig, stray pebble, and dead leaf currently resting on the grass. The concrete is permanently molded to exactly hug the shape of transient, random debris, making the path completely useless and impossible to walk on. In the background, a simple, straight dirt trail bypasses the chaos entirely. Natural daylight, realistic textures, absolutely no text, no glowing elements, no diagrams, purely physical.",
   "model": "DALL·E 3 (ChatGPT Plus)",
   "concept": "Overfitting",
-  "metaphor": "A concrete path contorts around random debris, encoding noise and losing usability; a nearby straight trail represents generalization to underlying structure."
+  "metaphor": "A concrete path contorts around random debris, encoding noise and losing usability; a nearby straight trail represents generalization to underlying structure.",
+  "publish_email": true
 }
